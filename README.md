@@ -1,7 +1,11 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:6d28d9,100:06b6d4&height=220&section=header&text=Pixel-Level%20Domain%20Adaptation&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1e3a5f,55:6d28d9,80:9333ea,100:06b6d4&height=230&section=header&text=Pixel-Level%20Domain%20Adaptation&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn&descAlignY=58&desc=Bridging%20Source%20and%20Target%20Domains%20with%20Adversarial%20Networks&descSize=15&descColor=cbd5e1" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Generator+%E2%86%92+Discriminator+%E2%86%92+Task+Classifier;35.4-Point+Domain+Gap+Closed+%E2%80%A2+Zero+Target+Labels" alt="Typing SVG" />
+</p>
 
 ---
 
