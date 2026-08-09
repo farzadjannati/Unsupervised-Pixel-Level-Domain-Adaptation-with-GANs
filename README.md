@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6&height=200&section=header&text=Pixel-Level%20Domain%20Adaptation&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=farzadjannati&label=Repo%20Views&color=6d28d9&style=flat" alt="Repo Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:6d28d9,100:06b6d4&height=220&section=header&text=Pixel-Level%20Domain%20Adaptation&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 </div>
 
 ---
