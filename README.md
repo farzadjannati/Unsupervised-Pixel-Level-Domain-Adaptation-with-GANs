@@ -76,7 +76,7 @@ Core capabilities:
 Both datasets preserve sample ordering, so index `i` refers to the same digit in both domains — making it possible to verify directly that the generator alters appearance without corrupting content.
 
 <div align="center">
-  <img src="assets/paired_samples.png" alt="Paired MNIST and MNIST-M samples" width="620"/>
+  <img src="assets/paired_samples.png" alt="Paired MNIST and MNIST-M samples" width="380"/>
 </div>
 
 | Stage | Operation |
@@ -202,7 +202,7 @@ Final metrics: discriminator loss `0.3229`, generator loss `0.0452`, task loss `
 ## Qualitative Analysis
 
 <div align="center">
-  <img src="assets/qualitative_results.png" alt="Original, generated, and real target images with predictions" width="820"/>
+  <img src="assets/qualitative_results.png" alt="Original, generated, and real target images with predictions" width="620"/>
 </div>
 
 * **Style transfer succeeds** — generated images adopt the cluttered, colorful background statistics of MNIST-M.
