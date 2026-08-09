@@ -79,6 +79,7 @@ Both datasets preserve sample ordering, so index `i` refers to the same digit in
   <img src="assets/paired_samples.png" alt="Paired MNIST and MNIST-M samples" width="380"/>
 </div>
 
+
 | Stage | Operation |
 | --- | --- |
 | Channel alignment | Grayscale to 3-channel RGB |
